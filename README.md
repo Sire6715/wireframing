@@ -61,10 +61,11 @@ By stripping away visual design elements, wireframes allow designers to concentr
 
 
 
-**Some Other Wireframing Tools are**
+**Here are Some Wireframing Tools**
 - WorkFlow
 - AdobeXD
 - Sketch
+- Figma
 
 ### 🔄 WorkFlow
 
@@ -84,7 +85,6 @@ By stripping away visual design elements, wireframes allow designers to concentr
 - **Strengths**: Clean interface, extensive plugin ecosystem, and widely adopted in the design industry.
 - **Limitations**: macOS only, and lacks robust native collaboration; relies heavily on third-party tools like Abstract or Zeplin for teamwork.
 
----
 
  ### 🖌️ Figma
 
